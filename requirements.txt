@@ -1,0 +1,6 @@
+pytest  #for unit testing
+pandas   #to get the output in table format 
+pwinput   #for password hiding
+
+
+### sqlite3, datetime, hashlib&shutil are bulit in modules for python 3.7.x you can ignore it if you want
